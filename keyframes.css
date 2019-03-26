@@ -22,7 +22,7 @@ body {
   animation-duration: 4s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
-
+}
 
 @keyframes myanimation {
   0% {background-color: white; border-radius: 0 0 0 0;}
